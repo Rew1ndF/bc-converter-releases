@@ -2,5 +2,5 @@
   "version": "1.0.2",
   "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.0.2/BC.converter.Desktop.1.0.2.exe",
   "sha256": "36705c570d8d1fb8b31f098d56635e6d1a0c0705050bd0a1b1eac48798ee2338",
-  "changelog": "Фикс запуска: приложение больше не зависает на экране «Нет соединения». Обновите вручную, если авто-загрузка не проходит."
+  "changelog": ""
 }
