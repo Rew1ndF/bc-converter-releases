@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.0.3/BC.converter.Desktop.1.0.3.exe",
-  "sha256": "0eb0837cddabcf44930264f19a1b34d5929c885c33d58e95cf1b653de17c0057",
-  "changelog": ""
+  "version": "1.0.4",
+  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.0.4/BC.converter.Desktop.1.0.4.exe",
+  "sha256": "2dd3b6fc838ea31dbdc16a741e0be6b7a7863991d6ca0b6ec2b90916318c535d",
+  "changelog": "Смена формат hwid, обновление для h2n3, улучшена синхронизация"
 }
