@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.0.4/BC.converter.Desktop.1.0.4.exe",
-  "sha256": "2dd3b6fc838ea31dbdc16a741e0be6b7a7863991d6ca0b6ec2b90916318c535d",
-  "changelog": "Смена формат hwid, обновление для h2n3, улучшена синхронизация"
+  "version": "1.1.0",
+  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.1.0/BC.converter.Desktop.1.1.0.exe",
+  "sha256": "a82200f28fdf121cbeaede279120ce3d1037022ac1dd89a4c4a9574ac7571ebf",
+  "changelog": "• Программа теперь устанавливается на компьютер один раз, при первом запуске.\n• Добавлено удобное обновление программы.\n• Новый внешний вид программы.\n• Добавлен счётчик раздач.\n• Исправлены ошибки в раздачах run it twice и раздачах с мертвым блайндом на свободных.\n• Кнопка «Запустить BC Poker» больше не открывает клиент дважды и возвращает его из трея."
 }
