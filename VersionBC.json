@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.1.0/BC.converter.Desktop.1.1.0.exe",
-  "sha256": "a82200f28fdf121cbeaede279120ce3d1037022ac1dd89a4c4a9574ac7571ebf",
-  "changelog": "• Программа теперь устанавливается на компьютер один раз, при первом запуске.\n• Добавлено удобное обновление программы.\n• Новый внешний вид программы.\n• Добавлен счётчик раздач.\n• Исправлены ошибки в раздачах run it twice и раздачах с мертвым блайндом на свободных.\n• Кнопка «Запустить BC Poker» больше не открывает клиент дважды и возвращает его из трея."
+  "version": "1.1.1",
+  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.1.1/BC.converter.Desktop.1.1.1.exe",
+  "sha256": "cf7a8488cda0d93a8f13bda784bc4db634a197a46d45a3559935bdabde530f0f",
+  "changelog": "• В раздачах указывается рейк.\n• HUD в Hand2Note 3 за спектатора пофикшен.\n• Исправлено мигание HUD в Hand2Note 3, когда вы садитесь за стол."
 }
