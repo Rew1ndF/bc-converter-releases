@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.1.1/BC.converter.Desktop.1.1.1.exe",
-  "sha256": "cf7a8488cda0d93a8f13bda784bc4db634a197a46d45a3559935bdabde530f0f",
-  "changelog": "• В раздачах указывается рейк.\n• HUD в Hand2Note 3 за спектатора пофикшен.\n• Исправлено мигание HUD в Hand2Note 3, когда вы садитесь за стол."
+  "version": "1.1.2",
+  "download_url": "https://github.com/Rew1ndF/bc-converter-releases/releases/download/bc1.1.2/BC.converter.Desktop.1.1.2.exe",
+  "sha256": "3031ad760d940af5bda9ad4bc7b508cbbceb9103771f79e12bb71b59eb89a27d",
+  "changelog": "• Бомб-поты теперь трекаются.\r\n• Cash out учитывается в рейке.\r\n• Изменена запись добровольных show down рук."
 }
